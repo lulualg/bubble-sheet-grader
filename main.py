@@ -5,6 +5,7 @@ import cv2
 import numpy as np
 
 class gradingSystem:
+    """gradingSystem class for formatting & grading bubble sheet"""
     def get_marking(image):
         # image resizing
         widthImg = 700
