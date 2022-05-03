@@ -1,5 +1,5 @@
-![bubble](https://user-images.githubusercontent.com/94556962/166401617-5e495eb0-908f-487b-8e7a-910ccbdf50ed.png)
-# bubble-sheet-grader
+# bubble-sheet-grader <img src="https://user-images.githubusercontent.com/94556962/166401865-053d1877-dd21-46d1-82ec-b9027ca92db0.png" width="70">
+
 
 A bubble sheet grading system built on Python using NumPy and OpenCV.
 This program was built to allow educators easy and free access to automated grading systems without the hassle of rigorous time-consuming grading.
