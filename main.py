@@ -6,6 +6,10 @@ import numpy as np
 
 class gradingSystem:
     """gradingSystem class for formatting & grading bubble sheet"""
+    
+    def __init__(self, image):
+        self.image = image
+        
     def get_marking(image):
         # image resizing
         widthImg = 700
